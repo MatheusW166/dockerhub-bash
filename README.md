@@ -1,2 +1,3 @@
 # dockerhub-bash
-Bash script for buiding and pushing images to dockerhub.
+
+Bash scripts for simplify docker commands execution locally.
